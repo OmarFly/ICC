@@ -1,2 +1,6 @@
 # ICC
-Repositorio de trabajo para la materia de Introducción a Ciencias de la Computación I
+Repositorio de trabajo para PRÁCTICAS la materia de Introducción a Ciencias de la Computación I
+
+1.SITUARSE DESDE LA TERMINAL EN LA CARPETA DONDE SE ENCUENTRA EL CÓDIGO
+2. EJECUTAR EL COMANDO J<PARA COMPILARAVA MAIN.JAVA
+3. EJECYTAR EL COMANDO
