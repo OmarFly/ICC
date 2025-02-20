@@ -7,5 +7,6 @@ Repositorio de trabajo para PRÁCTICAS la materia de Introducción a Ciencias de
 
 
 Para subir:
-1. Comando git status para checar que realmente estemos en laa carpeta indicada
-2. 
+1.  SITUARSE DESDE LA TERMINAL EN LA CARPETA DONDE SE ENCUENTRAN LOS ARCHIVOS A SUBIR
+2.  Comando git status para VERIFICAR que realmente estemos en laa carpeta interesada
+3. 
