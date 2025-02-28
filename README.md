@@ -1,6 +1,7 @@
 # ICC
 Repositorio de trabajo para PRÁCTICAS la materia de Introducción a Ciencias de la Computación I
-
+@autor: Josué Omar Flores Yáñez
+@numCuenta: 314117148
 ## Ejecución
 1. SITUARSE DESDE LA TERMINAL EN LA CARPETA DONDE SE ENCUENTRAN LOS ARCHIVOS .java
 2. EJECUTAR EL COMANDO para COMPILAR javac main.java
