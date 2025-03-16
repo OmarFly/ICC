@@ -2,6 +2,7 @@
 # Fecha de entrega: [Fecha]
 # Materia: [Nombre de la asignatura]
 
+
 /* ============================
    DATOS ACADÉMICOS
    ============================ */
@@ -9,6 +10,7 @@
 - **Profesores:** [Nombre del profesor]
 - **Carrera:** [Nombre de la carrera]
 - **Semestre:** [Número de semestre]
+
 
 /* ============================
    INTEGRANTES DEL PROYECTO
@@ -18,10 +20,12 @@
 | [Integrante 1] | [ID académico]           |
 | [Integrante 2] | [ID académico]           |
 
+
 /* ============================
    DESCRIPCIÓN DEL PROYECTO
    ============================ */
 Este proyecto es una aplicación desarrollada en **Java**, cuyo objetivo es [descripción breve del propósito del programa].
+
 
 /* ============================
    OBJETIVOS DEL PROYECTO
@@ -29,6 +33,7 @@ Este proyecto es una aplicación desarrollada en **Java**, cuyo objetivo es [des
   - Implementar estructuras de datos eficientes.
   - Gestionar información de manera estructurada y organizada.
   - Desarrollar un sistema modular que permita la manipulación de datos de manera clara y flexible.
+
 
 /* ============================
    ESTRUCTURA DEL PROYECTO
@@ -44,6 +49,7 @@ Durante el desarrollo del proyecto se identificaron los siguientes problemas:
 - **[Problema 1]**: Descripción del problema y la solución implementada.
 - **[Problema 2]**: Explicación del error y las medidas correctivas aplicadas.
 - **[Mejoras Futuras]**: Posibles optimizaciones que podrían implementarse en versiones futuras.
+
 
 /* ============================
    INSTRUCCIONES PARA EJECUTAR EL PROYECTO
