@@ -36,9 +36,9 @@ también de acciones entre los volumenes líquidos de caada contenedor cilíndri
   - Desarrollar un sistema modular que permita la manipulación de contenedores de manera clara y flexible.
 
 
-/* ============================
+/* ==============================
    ESTRUCTURA DEL PROYECTO
-   ============================ */
+   ============================== */
 El proyecto está organizado en la siguiente estructura de directorios y archivos: \Proyecto1\Prueba2\
 'InterfazCilindro.java' 'Main.java' 'Recipiente.java'
 
@@ -53,9 +53,9 @@ Durante el desarrollo del proyecto se identificaron los siguientes problemas:
 - **[Mejoras Futuras]**: Utilizar algún método de la clase 'scanner' para pedirle al usuario ingresar datos para crear un contenedor con el tamaño que él quiera.
 
 
-/* ============================
+/* ==========================
    INSTRUCCIONES PARA EJECUTAR EL PROYECTO
-   ============================ */
+   ========================== */
 
 **REQUISITOS PREVIOS**
 Para compilar y ejecutar el proyecto, asegúrese de contar con:
