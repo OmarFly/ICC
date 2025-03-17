@@ -1,44 +1,45 @@
-# Nombre del Proyecto
-# Fecha de entrega: [Fecha]
-# Materia: [Nombre de la asignatura]
+# Proyecto Contenedores Cilíndricos
+# Fecha de entrega: 16 de Marzo del 2025
+# Materia: Introducción a Ciencias e la Computación
 
 
 /* ============================
    DATOS ACADÉMICOS
    ============================ */
-- **Institución:** [Nombre de la Universidad o Institución]
-- **Profesores:** [Nombre del profesor]
-- **Carrera:** [Nombre de la carrera]
-- **Semestre:** [Número de semestre]
+- **Institución:** Facultttaad de Ciencias UNAM
+- **Profesores:** Pedro Ulises Cervantes González, Raúl Eduardo Martínez Damaso, Yessica Janeth Pablo Martínez
+- **Carreras:** Ciencias de la Computación, Matemáticas
+- **Semestre:** 2025-2
 
 
 /* ============================
    INTEGRANTES DEL PROYECTO
    ============================ */
-| Nombre Completo | Número de Cuenta / Matrícula |
+| Nombre Completo | Número de Cuenta |
 |----------------|--------------------------|
-| [Integrante 1] | [ID académico]           |
-| [Integrante 2] | [ID académico]           |
+| Edson Jair Morales Hérnandez | [ID académico] |
+| Josué Omar Flores Yáñez      | 314117148 |
 
 
 /* ============================
    DESCRIPCIÓN DEL PROYECTO
    ============================ */
-Este proyecto es una aplicación desarrollada en **Java**, cuyo objetivo es [descripción breve del propósito del programa].
+Este proyecto es una aplicación desarrollada en **Java**, cuyo objetivo es simular la creación de contennedores cilíndricos y simulación
+también de acciones entre los volumenes líquidos de caada contenedor cilíndrico.
 
 
 /* ============================
    OBJETIVOS DEL PROYECTO
    ============================ */
-  - Implementar estructuras de datos eficientes.
-  - Gestionar información de manera estructurada y organizada.
-  - Desarrollar un sistema modular que permita la manipulación de datos de manera clara y flexible.
+  - Implementar el constructor corrrectamente parar los coontennedores cilíndricos.
+  - Gestionar los métodos de manera estructurada y organizada.
+  - Desarrollar un sistema modular que permita la manipulación de contenedores de manera clara y flexible.
 
 
 /* ============================
    ESTRUCTURA DEL PROYECTO
    ============================ */
-El proyecto está organizado en la siguiente estructura de directorios y archivos:
+El proyecto está organizado en la siguiente estructura de directorios y archivos: \Proyecto1\'InterfazCilindro.java' 'Main.java' 'Recipiente.java'
 
 
 /* ============================
@@ -46,9 +47,9 @@ El proyecto está organizado en la siguiente estructura de directorios y archivo
    ============================ */
 Durante el desarrollo del proyecto se identificaron los siguientes problemas:
 
-- **[Problema 1]**: Descripción del problema y la solución implementada.
-- **[Problema 2]**: Explicación del error y las medidas correctivas aplicadas.
-- **[Mejoras Futuras]**: Posibles optimizaciones que podrían implementarse en versiones futuras.
+- **[Problema 1]**: Crear contenedores y mandarlos a llamar.
+- **[Problema 2]**: Desarrollo del método "contenedorJuusto".
+- **[Mejoras Futuras]**: Utilizar algun m'ettodo de la clase 'scanner' para pedirle al usuario ingresar datos para crear un contenedor con el tamaño que él quiera.
 
 
 /* ============================
