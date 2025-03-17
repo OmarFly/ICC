@@ -24,14 +24,14 @@
 /* ============================
    DESCRIPCIÓN DEL PROYECTO
    ============================ */
-Este proyecto es una aplicación desarrollada en **Java**, cuyo objetivo es simular la creación de contennedores cilíndricos y simulación
+Este proyecto es una aplicación desarrollada en **Java**, cuyo objetivo es simular la creación de contenedores cilíndricos y simulación
 también de acciones entre los volumenes líquidos de caada contenedor cilíndrico.
 
 
 /* ============================
    OBJETIVOS DEL PROYECTO
    ============================ */
-  - Implementar el constructor corrrectamente parar los coontennedores cilíndricos.
+  - Implementar el constructor corrrectamente parar los contenedores cilíndricos.
   - Gestionar los métodos de manera estructurada y organizada.
   - Desarrollar un sistema modular que permita la manipulación de contenedores de manera clara y flexible.
 
@@ -50,7 +50,7 @@ Durante el desarrollo del proyecto se identificaron los siguientes problemas:
 
 - **[Problema 1]**: Crear contenedores y mandarlos a llamar.
 - **[Problema 2]**: Desarrollo del método "contenedorJuusto".
-- **[Mejoras Futuras]**: Utilizar algun m'ettodo de la clase 'scanner' para pedirle al usuario ingresar datos para crear un contenedor con el tamaño que él quiera.
+- **[Mejoras Futuras]**: Utilizar algún método de la clase 'scanner' para pedirle al usuario ingresar datos para crear un contenedor con el tamaño que él quiera.
 
 
 /* ============================
