@@ -39,7 +39,8 @@ también de acciones entre los volumenes líquidos de caada contenedor cilíndri
 /* ============================
    ESTRUCTURA DEL PROYECTO
    ============================ */
-El proyecto está organizado en la siguiente estructura de directorios y archivos: \Proyecto1\'InterfazCilindro.java' 'Main.java' 'Recipiente.java'
+El proyecto está organizado en la siguiente estructura de directorios y archivos: \Proyecto1\Prueba2\
+'InterfazCilindro.java' 'Main.java' 'Recipiente.java'
 
 
 /* ============================
