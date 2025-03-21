@@ -47,12 +47,9 @@
    =========================== */
    + Durante el desarrollo de la practica se identificaron los siguientes problemas:
 
-- **[Problema 1]**: En la clase main anhidé el metodo 'HoraCompleta()', es decir lo puse dentro de su llaves cuando deberia
-- localizazrse fuera del metodo principal.
-- **[Problema 2]**: Cuando cerre el scaner con 'scaner.close()' puse la primera letra con mayuscula y me senti aliviadoo cuando descubri
-- que el error de compilacion era simplemente debido a una letra mayuscula en vez de minuscula. Me hizo recordar al Proyecto 2 (jaja).
-- **[Mejoras Futuras]**: Imaginemos que el programa es utilizazdo por alguien de otro pais epecificamente unn pais con husos horarios
-- distintos entonces podriamos utilizar el método 'Scanner(system.in)' para pedirle al usuario ingresar su hora especifica.
+- **[Problema 1]**: En la clase main anhidé el metodo 'HoraCompleta()', es decir lo puse dentro de su llaves cuando deberia localizazrse fuera del metodo principal.
+- **[Problema 2]**: Cuando cerre el scaner con 'scaner.close()' puse la primera letra con mayuscula y me senti aliviadoo cuando descubri que el error de compilacion era simplemente debido a una letra mayuscula en vez de minuscula. Me hizo recordar al Proyecto 2 (jaja).
+- **[Mejoras Futuras]**: Imaginemos que el programa es utilizado por alguien de otro pais, epecificamente unn pais con husos horarios distintos entonces podriamos utilizar el método 'Scanner(system.in)' para pedirle al usuario ingresar su hora especifica.
 
 
 /* ===================
