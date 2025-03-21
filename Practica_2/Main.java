@@ -103,7 +103,7 @@ public class Main{
 
     // Obs: El metodo 'String.format()' es un metodo de la clase 'String' que
     // permite formatear una cadena de texto, es una solucion que permite tener menos 
-    // 'system.out.println()' en el 'for' implementado anteriormente.
+    // 'system.out.println()'.
     // En este ejemplo en particular se formatea la hora en formato HH:MM:SS
     // Donde:
     // '%' es un especificador de formato.
