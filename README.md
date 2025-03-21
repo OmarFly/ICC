@@ -1,21 +1,71 @@
-# ICC
-Repositorio de trabajo para PRÁCTICAS y PROOYECTOS de la materia de Introducción a Ciencias de la Computación I
-@autor: Josué Omar Flores Yáñez
-@numCuenta: 314117148
-## Ejecución
-1. SITUARSE DESDE LA TERMINAL EN LA CARPETA DONDE SE ENCUENTRAN LOS ARCHIVOS .java
-2. EJECUTAR EL COMANDO para COMPILAR javac main.java
-3. EJECYTAR EL COMANDO PARA EJECUTAR java main
+# Practica 2: Clases, Metodos y Ciclos
+# Fecha de entrega: 21 de Marzo del 2025
+# Materia: Introducción a Ciencias e la Computación
 
-# Upload
-Para subir:
-1.  SITUARSE DESDE LA TERMINAL EN LA CARPETA DONDE SE ENCUENTRAN LOS ARCHIVOS A SUBIR
-2.  Comando git status para VERIFICAR que realmente estemos en laa carpeta interesada
-3.  Coamdo git clone + url obtenido desde el directorio en github, la paestaña que dice code arroja opciones para copiar el url del repositorio.
-4.  Una vez más el gt status para comprobar que estamos en la rama main y la carpeta aparece en rojo
-5.  Comando git add . para añadir carpetas
-6.  comando git status con la carpeta verde
-7.  comando git commit -m + "Carpeta practica"
-8.  AHora sí ya podemos subir como tal
-9.  8.1 obtener token: perfil configuraciones -> ajustes de desarrollador -> tokens de acceso personal -> tokkens clasicos -> generar un nuevo token -> congigurar expration -> palomear todas las opciones como buen progrmador -> Una vez palomeando todo confirmar creación de nuevo token -> COPIAR el token y GUARDAR en un txt en alguna carpeta especial
-10.  comando git push 
+
+/* ============================
+   DATOS ACADÉMICOS
+   ============================ */
+- **Institución:** Facultttaad de Ciencias UNAM
+- **Profesores:** Pedro Ulises Cervantes González, Raúl Eduardo Martínez Damaso, Yessica Janeth Pablo Martínez
+- **Carreras:** Ciencias de la Computación, Matemáticas
+- **Semestre:** 2025-2
+
+
+/* ============================
+   INTEGRANTES DE LA PRACTICA
+   ============================ */
+| Nombre Completo | Número de Cuenta |
+|----------------|--------------------------|
+| Edson Jair Morales Hérnandez | 318076546 |
+| Josué Omar Flores Yáñez      | 314117148 |
+
+
+/* ============================
+   DESCRIPCIÓN DE LA PRACTICA
+   ============================ */
+Este practica es una aplicación desarrollada en **Java**, cuyo objetivo es simular un reloj, un objeto para medir el paso del tiempo y
+recrear este proceesoo.
+
+/* ============================
+   OBJETIVOS DE LA PRACTICA
+   ============================ */
+  - Implementar clases distintas para cada division del tiempo (limitado a horas, minuutos  segundos)  
+  - Gestionar los métodos de manera estructurada y organizada.
+  - Desarrollar un sistema modular que permita la division del tiempo.
+
+
+/* ==============================
+   ESTRUCTURA DE LA PRACTICA
+   ============================== */
+El proyecto está organizado en la siguiente estructura de directorios y archivos: \Practica_2
+'Horas.java' 'Minutos.java' 'Segundos.java' 'Main.java'
+
+
+/* ============================
+   INCONVENIENTES ENCONTRADOS
+   ============================ */
+Durante el desarrollo de la practica se identificaron los siguientes problemas:
+
+- **[Problema 1]**: En la clase main anhidé el metodo 'HoraCompleta()', es decir lo puse dentro de su llaves cuando deberia
+- localizazrse fuera deel metodo.
+- **[Problema 2]**: Cuando cerre el scaner con 'scaner.close()' puse la primera letra con mayuscula y me senti aliviadoo cuando descubri
+- que el error de compilacion era simplemente debido a una letra mayuscula en vez de minuscula. Me hizo recordar al Proyecto 2 (jaja).
+- **[Mejoras Futuras]**: Imaginemos que el programa es utilizazdo por alguien de otro pais epecificamente con huusos horario distintos
+- entonces podriamos utilizar el método 'Scanner(system.in)' para pedirle al usuario ingresar su hora especifica.
+
+
+/* ==========================
+   INSTRUCCIONES PARA EJECUTAR LA PRACTICA
+   ========================== */
+
+**REQUISITOS PREVIOS**
+Para compilar y ejecutar la practica, asegúrate de contar con:
+- **Java Development Kit (JDK)** (Versión recomendada: 11 o superior).
+
+**COMPILACIÓN Y EJECUCIÓN**
+Desde la terminal o línea de comandos:
+
+1. **Abrir una terminal** en la carpeta raíz del proyecto.
+2. **Compilar el código fuente** con el comando javac + '"NombresArchivos.java"'
+3. **Ejecutar el programa** con el comando java + 'Main'
