@@ -6,7 +6,7 @@
 /* ============================
    DATOS ACADÉMICOS
    ============================ */
-- **Institución:** Facultttaad de Ciencias UNAM
+- **Institución:** Facultad de Ciencias UNAM
 - **Profesores:** Pedro Ulises Cervantes González, Raúl Eduardo Martínez Damaso, Yessica Janeth Pablo Martínez
 - **Carreras:** Ciencias de la Computación, Matemáticas
 - **Semestre:** 2025-2
