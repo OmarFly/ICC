@@ -35,16 +35,16 @@
   - Desarrollar un sistema modular que permita la division del tiempo.
 
 
-/* ==============================
+/* ===========================
    ESTRUCTURA DE LA PRACTICA
-   ============================== */
+   =========================== */
    - La practica está organizado en la siguiente estructura de directorios y archivos:
    - \Practica_2 'Horas.java' 'Minutos.java' 'Segundos.java' 'Main.java'
 
 
-/* ============================
+/* ===========================
    INCONVENIENTES ENCONTRADOS
-   ============================ */
+   =========================== */
    + Durante el desarrollo de la practica se identificaron los siguientes problemas:
 
 - **[Problema 1]**: En la clase main anhidé el metodo 'HoraCompleta()', es decir lo puse dentro de su llaves cuando deberia
@@ -55,9 +55,9 @@
 - distintos entonces podriamos utilizar el método 'Scanner(system.in)' para pedirle al usuario ingresar su hora especifica.
 
 
-/* ==========================
+/* ===================
    INSTRUCCIONES PARA EJECUTAR LA PRACTICA
-   ========================== */
+   =================== */
 
 **REQUISITOS PREVIOS**
 + Para compilar y ejecutar la practica, asegúrate de contar con:
