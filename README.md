@@ -24,8 +24,7 @@
 /* ============================
    DESCRIPCIÓN DE LA PRACTICA
    ============================ */
-Este practica es una aplicación desarrollada en **Java**, cuyo objetivo es simular un reloj, un objeto para medir el paso del tiempo y
-recrear este proceso.
+   - Este practica es una aplicación desarrollada en **Java**, cuyo objetivo es simular un reloj, un objeto para medir el paso del tiempo y recrear este proceso.
 
 /* ===========================
    OBJETIVOS DE LA PRACTICA
@@ -39,14 +38,14 @@ recrear este proceso.
 /* ==============================
    ESTRUCTURA DE LA PRACTICA
    ============================== */
-La practica está organizado en la siguiente estructura de directorios y archivos: \Practica_2
-'Horas.java' 'Minutos.java' 'Segundos.java' 'Main.java'
+   - La practica está organizado en la siguiente estructura de directorios y archivos:
+   - \Practica_2 'Horas.java' 'Minutos.java' 'Segundos.java' 'Main.java'
 
 
 /* ============================
    INCONVENIENTES ENCONTRADOS
    ============================ */
-Durante el desarrollo de la practica se identificaron los siguientes problemas:
+   + Durante el desarrollo de la practica se identificaron los siguientes problemas:
 
 - **[Problema 1]**: En la clase main anhidé el metodo 'HoraCompleta()', es decir lo puse dentro de su llaves cuando deberia
 - localizazrse fuera del metodo principal.
@@ -61,7 +60,7 @@ Durante el desarrollo de la practica se identificaron los siguientes problemas:
    ========================== */
 
 **REQUISITOS PREVIOS**
-Para compilar y ejecutar la practica, asegúrate de contar con:
++ Para compilar y ejecutar la practica, asegúrate de contar con:
 - **Java Development Kit (JDK)** (Versión recomendada: 11 o superior).
 
 **COMPILACIÓN Y EJECUCIÓN**
