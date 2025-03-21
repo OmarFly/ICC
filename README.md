@@ -1,5 +1,5 @@
 # ICC
-Repositorio de trabajo para PRÁCTICAS la materia de Introducción a Ciencias de la Computación I
+Repositorio de trabajo para PRÁCTICAS y PROOYECTOS de la materia de Introducción a Ciencias de la Computación I
 @autor: Josué Omar Flores Yáñez
 @numCuenta: 314117148
 ## Ejecución
