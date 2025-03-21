@@ -27,9 +27,10 @@
 Este practica es una aplicación desarrollada en **Java**, cuyo objetivo es simular un reloj, un objeto para medir el paso del tiempo y
 recrear este proceso.
 
-/* ============================
+/* ===========================
    OBJETIVOS DE LA PRACTICA
-   ============================ */
+   =========================== */
+   
   - Implementar clases distintas para cada division del tiempo (limitado a horas, minutos y segundos)  
   - Gestionar los métodos de manera estructurada y organizada.
   - Desarrollar un sistema modular que permita la division del tiempo.
