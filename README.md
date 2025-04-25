@@ -1,5 +1,5 @@
-# Practica 2: Clases, Metodos y Ciclos
-# Fecha de entrega: 21 de Marzo del 2025
+# Practica 3: Listas Ligadas
+# Fecha de entrega: 4 de Abril del 2025
 # Materia: Introducción a Ciencias e la Computación
 
 
@@ -25,22 +25,22 @@
 /* ============================
    DESCRIPCIÓN DE LA PRACTICA
    ============================ */
-   - Este practica es una aplicación desarrollada en **Java**, cuyo objetivo es simular un reloj, un objeto para medir el paso del tiempo y recrear este proceso.
+   - Este practica es una aplicación desarrollada en **Java**, cuyo objetivo es aplicar los conocimientos vistos en clase y en el laboratorio para crear una lista a base de nodos y modificar dicha lista con algunos metodos ccorrectamente implementados.
 
 /* ===========================
    OBJETIVOS DE LA PRACTICA
    =========================== */
    
-  - Implementar clases distintas para cada division del tiempo (limitado a horas, minutos y segundos)  
+  - Implementar 3 clases: Main, ListaLigada, Nodo.  
   - Gestionar los métodos de manera estructurada y organizada.
-  - Desarrollar un sistema modular que permita la division del tiempo.
+  
 
 
 /* ===========================
    ESTRUCTURA DE LA PRACTICA
    =========================== */
    - La practica está organizado en la siguiente estructura de directorios y archivos:
-   - \Practica_2 'Horas.java' 'Minutos.java' 'Segundos.java' 'Main.java'
+   - \Practica_3 'Main.java' 'Nodo.java' 'ListaLigada.java'
 
 
 /* ===========================
@@ -48,9 +48,9 @@
    =========================== */
    + Durante el desarrollo de la practica se identificaron los siguientes problemas:
 
-- **[Problema 1]**: En la clase main anhidé el metodo 'HoraCompleta()', es decir lo puse dentro de su llaves cuando deberia localizazrse fuera del metodo principal.
-- **[Problema 2]**: Cuando cerre el scaner con 'scaner.close()' puse la primera letra con mayuscula y me senti aliviadoo cuando descubri que el error de compilacion era simplemente debido a una letra mayuscula en vez de minuscula. Me hizo recordar al Proyecto 2 (jaja).
-- **[Mejoras Futuras]**: Imaginemos que el programa es utilizado por alguien de otro pais, epecificamente unn pais con husos horarios distintos entonces podriamos utilizar el método 'Scanner(system.in)' para pedirle al usuario ingresar su hora especifica.
+- **[Problema 1]**: En la clase Main, al momento de compilar me mando un error pues algunas palabras dentro del S.O.P contenían acentos.
+- **[Problema 2]**: Fue un poco dificil abstraer las referencias de los nodos.
+- **[Mejoras Futuras]**: Podriamos agregar metodos de la clase Scanner para que el usuario del programa agregue los elementos desde la consola, asi como la longitud de la lista.
 
 
 /* ===================
@@ -63,5 +63,5 @@
 
 **COMPILACIÓN Y EJECUCIÓN**
 1. **Abrir una terminal** en la carpeta raíz del proyecto.
-2. **Compilar el código fuente** con el comando javac + '"NombresArchivos.java"'
+2. **Compilar el código fuente** con el comando javac + '*.java'
 3. **Ejecutar el programa** con el comando java + 'Main'
