@@ -49,7 +49,7 @@
    + Durante el desarrollo de la practica se identificaron los siguientes problemas:
 
 - **[Problema 1]**: En la clase Main, al momento de compilar me mando un error pues algunas palabras dentro del S.O.P contenían acentos.
-- **[Problema 2]**: Originalmemte le había puesto cuerpo al metodo abstracto 'toString()'
+- **[Problema 2]**: Originalmemte le había puesto cuerpo al metodo abstracto 'toString()' y esto fue un error. Despues definimos el metodo 'toString()' en la superclase.
 
 
 /* ===================
