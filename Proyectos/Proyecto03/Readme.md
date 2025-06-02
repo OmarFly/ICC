@@ -1,5 +1,5 @@
 # Proyecto Pick-a-Perro 
-# Fecha de entrega: 16 de Marzo del 2025
+# Fecha de entrega: 1 de Junio del 2025
 # Materia: Introducción a Ciencias e la Computación
 
 
